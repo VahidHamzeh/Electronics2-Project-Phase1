@@ -1,3 +1,6 @@
+![Language](https://img.shields.io/badge/Language-LTspice-blue?style=for-the-badge&logo=siemens&logoColor=white)
+![Design](https://img.shields.io/badge/Design-CMOS-orange?style=for-the-badge&logo=microchip&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=github&logoColor=white)
 # Electronic2 | Project | Phase1
 # MOSFET Differential Amplifier Design Project
 
